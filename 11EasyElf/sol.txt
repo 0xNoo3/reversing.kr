@@ -1,0 +1,12 @@
+input0 = input0 ^ 0x34
+input1 = 0x31
+input2 = input2 ^ 0x32
+input3 = input3 ^ 0x88
+input4 = 0x58
+input5 != 0
+input2 = 0x7c
+input0 = 0x78
+input3 = 0xDD
+
+
+just replace the values and do xor you will get L1NUX
