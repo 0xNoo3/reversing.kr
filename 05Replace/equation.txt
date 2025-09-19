@@ -1,0 +1,12 @@
+input.mem += 2
+input.mem += 0x601605c7
+input.eax += 1
+input.mem += 2
+input.eax = input.mem
+input.mem++
+
+input.eax = 4 + 0x601605c7
+
+we want input + 4 + 0x601605c7 = 0x00401071
+
+input = 0x00401071 - 0x4 - 0x601605c7
