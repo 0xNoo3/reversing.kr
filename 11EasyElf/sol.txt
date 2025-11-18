@@ -9,4 +9,4 @@ input0 = 0x78
 input3 = 0xDD
 
 
-just replace the values and do xor you will get L1NUX
+just replace the values and do xor you will get L1NUX (i did it manually lol)
